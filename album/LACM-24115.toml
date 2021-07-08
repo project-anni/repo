@@ -1,0 +1,30 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS L@YERED WING 05"
+artist = "アルストロメリア"
+date = 2021-08-18
+type = "normal"
+catalog = "LACM-24115"
+
+[[discs]]
+catalog = "LACM-24115"
+
+[[discs.tracks]]
+title = ""
+
+[[discs.tracks]]
+title = ""
+
+[[discs.tracks]]
+title = "Resonance⁺（アルストロメリア Ver.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「」"
+type = "drama"
+
+[[discs.tracks]]
+title = "（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "（Off Vocal）"
+type = "instrumental"
